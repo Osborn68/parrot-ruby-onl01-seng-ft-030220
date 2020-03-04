@@ -7,3 +7,4 @@ def parrot(name, phrase="Squawk!")
 end
 
 parrot(Pretty bird!)
+```
